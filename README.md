@@ -5,14 +5,14 @@ Your personal voice assistant. Written in Python.
 "Eliza" is a 100% open-source, modular voice assistant framework. We aim to do everything that Siri, Cortana, and Echo can do - and more.
 In this project i used several important libs: Speech-Recognition (as an AI lib), pyttsx3, tkinter and others.
 
-##Usage Examples:
-Say "Athena" (wait for double beep) then...
+## Usage Examples:
+Start Eliza and say...
 
-"Play some music"
-"Tweet [Hello world!]" (IFTTT key required)
-"Define [artificial intelligence]"
-"Show me pictures of [Taj Mahal]"
-"Open facebook.com"
+- "Play some music"
+- "Lets play" 
+- "Timer on 10 minutes"
+- "Shutdown system"
+- "Search Taj Mahal"
 
 ## How can I help?
 - Write modules and contribute them by submitting a pull request to this repository
@@ -49,3 +49,7 @@ Here is a voice-assistant project, with fuctions:
 Python is very moody, so I have few recomendations, if you want to made your own AI VA on this base:
 - Dont copy the code, write it by yourself
 - 
+
+## #TODO list:
+- Make Eliza subprocessed
+- ....
