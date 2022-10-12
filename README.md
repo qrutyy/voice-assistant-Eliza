@@ -2,7 +2,7 @@
 ## Overview 
 Your personal voice assistant. Written in Python.
 
-"Eliza" is a 100% open-source, modular voice assistant framework. We aim to do everything that Siri, Cortana, and Echo can do - and more.
+"Eliza" is a 100% open-source, modular voice assistant. I aim to do everything that Siri, Cortana, and Echo can do - and more.
 In this project i used several important libs: Speech-Recognition (as an AI lib), pyttsx3, tkinter and others.
 
 ## Usage Examples:
